@@ -1,0 +1,43 @@
+.heading2 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.loginheading {
+    color: blue;
+    font-size: 16px;
+    text-align: center;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logoutheading2 {
+    color: red;
+    font-size: 16px;
+    text-align: center;
+}
+input {
+    margin: 10px;
+}
+
+.loginbtn{
+    background-color:  green;
+    color: wheat;
+    font-size: 15px;
+    padding: 6px;
+    border-radius: 6px;
+
+}
+.logoutbtn{
+    background-color: tomato;
+    color: wheat;
+    font-size: 15px;
+    padding: 6px;
+    border-radius: 6px;
+    
+}
